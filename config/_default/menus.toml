@@ -1,0 +1,51 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+ 
+#[[main]]
+  #name = "About"
+  #url = "#about"
+  #weight = 10
+
+[[main]]
+  name = "Current Students"
+  url = "#people"
+  weight = 45
+  
+[[main]]
+  name = "Lab Alumni"
+  url = "#alumni" 
+  weight = 50
+
+[[main]]
+  name = "Prospective Students"
+  url = "prospective/"  
+  weight = 65
+
+[[main]]
+  name = "Publications"
+  url = "https://scholar.google.com/citations?hl=en&user=m8kEFvAAAAAJ&view_op=list_works&sortby=pubdate"
+  weight = 50
+
+[[main]]
+  name = "Photos"
+  url = "https://www.facebook.com/apsuherpetology/photos"
+  weight = 60
+
+[[main]]
+  name = "Gallery"
+  url = "#blank"
+  weight = 75
+
+[[main]]
+  name = "Contact"
+  url = "#contact" 
+  weight = 130 
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70  
