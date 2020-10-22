@@ -34,9 +34,9 @@
   weight = 60
 
 [[main]]
-  name = "Gallery"
-  url = "#blank"
-  weight = 75
+  #name = "Gallery"
+  #url = "#blank"
+  #weight = 75
 
 [[main]]
   name = "Contact"

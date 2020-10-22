@@ -28,4 +28,4 @@ user_groups:
 - Grad Students
 #- Alumni
 ---
-
+My research interests are in ecology, physiology, wildlife diseases, and invasive species with in reptile and amphibian communities. My thesis focuses on better understanding the relationship between metabolism and stress levels by comparing stress-induced changes in corticosterone with standard metabolic rates in cottonmouth snakes (Agkistrodon piscivorus). 

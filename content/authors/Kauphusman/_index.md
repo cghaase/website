@@ -17,6 +17,7 @@ email: ""
 interests:
 - Wildlife Ecology
 - Spatial Ecology and GIS
+- Anything that will get me employed in a State or Federal position
 name: Jack Kauphusman
 organizations:
 - name: Austin Peay State University
@@ -28,5 +29,4 @@ user_groups:
 - Grad Students
 #- Alumni
 ---
-
-My research interests include spatial ecology of reptiles. 
+My research interests are in ecology, particularly in wildlife, wetlands, and conservation. Currently, I am studying ontogentic shifts in habitat selection by cottonmouths (Agkistrodon piscivorus).

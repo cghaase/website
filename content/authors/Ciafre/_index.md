@@ -30,4 +30,7 @@ user_groups:
 - Grad Students
 #- Alumni
 ---
+Botanist-in-Residence.
+
+I am currently studying the plant community ecology of wetlands, including how edaphic conditions affect diversity and composition among and within sites. I am also describing a new species of sedge and assisting with the description of a new species of quillwort. My other research interests include examining potential assemblage shifts in wood-boring beetles as a result of the use of fire and logging in woodlands and how these management techniques may induce hybridization in some plant genera. 
 
